@@ -69,9 +69,10 @@ link {
 	text-align: center;
 }
 
-.Main {
+.main {
 	display: block;
 	margin: auto;
+	padding-left: 30px;
 }
 
 .right {
